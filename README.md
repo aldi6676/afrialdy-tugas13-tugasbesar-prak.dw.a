@@ -1,44 +1,45 @@
-usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           [--config-env=<name>=<envvar>] <command> [<args>]
+# Syaputra-IT21.Corp Company Profile
 
-These are common Git commands used in various situations:
+![Banner Image](https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/pageImages/page__en_us_1633494124__0.jpeg)
 
-start a working area (see also: git help tutorial)
-   clone     Clone a repository into a new directory
-   init      Create an empty Git repository or reinitialize an existing one
+## Overview
+This is the official Company Profile for Syaputra-IT21.Corp. It showcases the company's services, portfolio, team members, and contact information.
 
-work on the current change (see also: git help everyday)
-   add       Add file contents to the index
-   mv        Move or rename a file, a directory, or a symlink
-   restore   Restore working tree files
-   rm        Remove files from the working tree and from the index
+## Table of Contents
+- [Navigation](#navigation)
+- [Banner](#banner)
+- [Services](#layanan)
+- [Portfolio](#portofolio)
+- [About Us](#tentang)
+- [Our Team](#staff)
+- [Clients](#client)
+- [Contact Us](#kontak)
+- [License](#license)
 
-examine the history and state (see also: git help revisions)
-   bisect    Use binary search to find the commit that introduced a bug
-   diff      Show changes between commits, commit and working tree, etc
-   grep      Print lines matching a pattern
-   log       Show commit logs
-   show      Show various types of objects
-   status    Show the working tree status
+## Navigation
+The navigation bar provides quick access to different sections of the company profile. It includes links to services, portfolio, about us, team, and contact information.
 
-grow, mark and tweak your common history
-   branch    List, create, or delete branches
-   commit    Record changes to the repository
-   merge     Join two or more development histories together
-   rebase    Reapply commits on top of another base tip
-   reset     Reset current HEAD to the specified state
-   switch    Switch branches
-   tag       Create, list, delete or verify a tag object signed with GPG
+## Banner
+The banner section introduces visitors to Syaputra-IT21.Corp with a welcoming message. It also includes a button to explore the services.
 
-collaborate (see also: git help workflows)
-   fetch     Download objects and refs from another repository
-   pull      Fetch from and integrate with another repository or a local branch
-   push      Update remote refs along with associated objects
+## Services
+The services section outlines the key offerings of the company, including programming, design, and networking.
 
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
+## Portfolio
+The portfolio section displays recent projects completed by Syaputra-IT21.Corp. Each project includes a brief description and an image.
+
+## About Us
+The about us section provides information about the company, its experience, and the dedicated professionals in the team. It also emphasizes the commitment to providing high-quality services and innovative solutions.
+
+## Our Team
+This section introduces the team members, including their roles and links to their social media profiles.
+
+## Clients
+The client section displays logos of some of the notable clients the company has worked with.
+
+## Contact Us
+The contact us section invites visitors to get in touch for more information or inquiries. It includes input fields for name, email, phone, and a message.
+
+## License
+All Rights Reserved &copy; 2021
+
