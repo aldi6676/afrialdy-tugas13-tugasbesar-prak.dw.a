@@ -43,7 +43,3 @@ The contact us section invites visitors to get in touch for more information or 
 ## License
 All Rights Reserved &copy; 2021
 
----
-
-**Note:** Replace the placeholder URLs and social media links with the actual ones used in your project.
-
